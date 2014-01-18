@@ -5,4 +5,4 @@ In preparation for the upcoming Statamic Stack Exchange Q&A site, I've made this
 ## Documentation
 
 Documentation and examples can be found on:  
-http://pixelfear.com/addons/stackoverflow
+http://pixelfear.com/addons/stackexchange
