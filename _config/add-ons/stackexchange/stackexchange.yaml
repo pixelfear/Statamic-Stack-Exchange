@@ -1,0 +1,5 @@
+# Name of the Stack Exchange site you are using
+site: stackoverflow
+
+# The name of the input field and querystring parameter containing your keywords
+query_variable: query
